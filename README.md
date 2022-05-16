@@ -53,42 +53,7 @@ For this phase following actions have been performed
 2.Aggregation of data on basis of certain parameters was done to narrow down data frames for ease of analysis.
 3.Certain manipulations were done on data to suit the need of required data for analysis
 
-5.Share
 
-In this stage of analysis various parameters were analysed to find relationships between the same.
-On basis of the analysis certain relationships were obtained which would help in making the required recommendations for Bellabeat.
-
-1.Below mentioned plot showcases the relationship between the Calories the users have burned w.r.t the step count.
-There is a positive correlation.
-
-![image](https://user-images.githubusercontent.com/43092462/168684093-1f8da3cd-33bc-4e08-9c56-daeb4dcfb9df.png)
-
- 
-2.As seen in the plot ,higher calorie burn is directly proportional to standard range of sleep which is 6-8 hours .The same is displayed in the plot where maximum number of data points lie between the range of 6-8 hours.
-
-![image](https://user-images.githubusercontent.com/43092462/168684152-57595e97-eb9e-47c2-9c28-3b1a8f239d0c.png)
-
- 
-3.Here Tuesdays,Wednesdays and Thursdays show maximum calories burnt,the reason may be people are more active in mid weeks and they tend to become lazy as weekend approaches.
-
-![image](https://user-images.githubusercontent.com/43092462/168684192-7d58fde3-dbdc-4f60-adf3-8116c48a41dc.png)
-
- 
-4.From the statistics shown here average sedentary mins shows maximum time percentage from the total time users are logged in and the least is for very active minutes,which indirectly says people are not investing their time in working out.
-
-![image](https://user-images.githubusercontent.com/43092462/168684214-975b0e0e-c1e8-417a-9614-d485f465bc41.png)
-
-6.Act
-
-Following are the recommendations based on the findings
-
-1.The Stats shows people are not very much into working out and leading a fit and healthy lifestyle. Bellabeat can use new ideas to motivate people into leading healthy lifestyle. By discounts on subscriptions or adding rewards for achieving certain milestone, appreciation from the Bellabeat online community etc can be included so that people feel motivated by using the app. Since we have noticed a positive correlation between calories burnt and the number of steps logged in, Bellabeat can include taking bot to keep encouraging people to keep going ,to walk more and to burn more calories which will help them to move towards healthier side.
-
-2.Proper sleep adds to burning more calories even when sleeping. Including sleep monitor in the smart watch will help them analyze their sleep schedule and also to improve in lacking areas.
-
-3.People seem to work more or indirectly they walk more or perform any other type of activity more in the start of the week and by the end of the week with enthusiasm of weekends they also avoid focusing on maintaining healthy habits like working out. Bellabeat can include 7 days workout challenges ,one for every day of week .On completion they will receive some kind of awards or appreciation which would keep them on track and motivate them.
-
-4.With the sedentary life style led by many users ,even with the will to focus on healthy lifestyle, the nature of work becomes an obstacle. Bellabeat  can include hourly reminders for the users to have breaks ,may be a small walk break would definitely add  to the journey of loosing weight or being active ,healthy and fit.
 
  
 
