@@ -1,4 +1,4 @@
-# Kalyani_R-project:Case Study: How Can a Wellness Technology Company Play It Smart?
+# Case Study: How Can a Wellness Technology Company Play It Smart?
  
 
 Background
